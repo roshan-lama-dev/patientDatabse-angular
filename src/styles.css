@@ -1,1 +1,31 @@
 /* You can add global styles to this file, and also import other style files */
+.inputform {
+  background-color: bisque;
+  border-radius: 15px;
+}
+
+.displayPatient {
+  background-color: azure;
+  border-radius: 15px;
+}
+
+.deleteField {
+  background-color: beige;
+  border-radius: 15px;
+  box-shadow: 5ch;
+  min-height: 20px;
+}
+.searchPatient {
+  margin-top: 15px;
+  background-color: blanchedalmond;
+  border-radius: 15px;
+  box-shadow: 5ch;
+  min-height: 20px;
+}
+
+.emergencyDisplay {
+  background-color: aliceblue;
+  border-radius: 15px;
+  box-shadow: 5ch;
+  min-height: 20px;
+}
